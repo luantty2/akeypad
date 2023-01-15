@@ -9,8 +9,6 @@ This project is just a prototype, cases, plates and other keyboard components ar
 ## PCB
 
 ![pcb_2](https://i.imgur.com/rlXCcCM.png)
-![pcb_1](https://i.imgur.com/XtBSORx.png)
-![pcb_2](https://i.imgur.com/3Kbza0o.png)
 
 ## Firmware
 
